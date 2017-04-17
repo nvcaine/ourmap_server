@@ -4,5 +4,14 @@
 	"sections": [{
 		"sectionName": "index",
 		"title": "Ourmap server"
+	},{
+		"sectionName": "albums",
+		"title": "Ourmap server"
+	},{
+		"sectionName": "photos",
+		"title": "Ourmap server"
+	},{
+		"sectionName": "thumb",
+		"title": "Ourmap server"
 	}]
 }
